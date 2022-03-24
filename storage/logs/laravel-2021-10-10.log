@@ -1,0 +1,12 @@
+[2021-10-10 05:24:21] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select count(*) as aggregate from `pagina`)  
+[2021-10-10 05:25:26] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select count(*) as aggregate from `pagina`)  
+[2021-10-10 05:25:52] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select count(*) as aggregate from `pagina`)  
+[2021-10-10 05:26:45] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select * from `users` where `email` = sandra2202gutierrez@gmail.com limit 1)  
+[2021-10-10 05:31:14] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select count(*) as aggregate from `pagina`)  
+[2021-10-10 05:38:11] local.ERROR: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ (SQL: select * from information_schema.tables where table_schema = agenda and table_name = migrations)  

@@ -1,0 +1,4 @@
+[2021-11-18 04:06:18] local.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\laragon\\www\\constructora\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteSignatureParameters.php:9)
+[stacktrace]
+#0 {main}
+"} 
